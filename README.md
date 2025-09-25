@@ -32,6 +32,16 @@
   ▸ [사이트 보기](https://sangjune-portfolio.vercel.app/)
 
 ---
+### 🛠 Tech Stack (Main Tools)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+----
 
 ### 📫 Contact
 - Email: you@example.com  
