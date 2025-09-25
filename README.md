@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi, I'm Sangjune Park</h2>
-<p align="center">Backend Developer · Computer Vision · Mobile App Enthusiast</p>
+<p align="center">Backend Developer · Computer Vision · AI Engineer · Mobile App Enthusiast</p>
 
 ---
 
@@ -11,11 +11,11 @@
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Python, Java, C++, Dart  
-- **Backend:** Django, Spring Boot, FastAPI  
+- **Languages:** Python, C++, Dart  
+- **Backend:** Django, FastAPI  
 - **AI/CV:** PyTorch, YOLOv8, OpenCV  
-- **Mobile/Web:** Flutter, React Native, React  
-- **Infra:** AWS, Azure SQL, Firebase, Docker  
+- **Mobile/Web:** Flutter, React  
+- **Infra:** AWS, Firebase, SQLite
 
 ---
 
